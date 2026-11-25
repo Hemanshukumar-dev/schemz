@@ -1,4 +1,4 @@
-# Schemz API Documentation
+client# Schemz API Documentation
 
 > **Government Scheme Eligibility Platform** — REST API reference for citizens, organizers, and admins.
 
